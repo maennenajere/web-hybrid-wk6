@@ -2,12 +2,12 @@
 
 Displays RSS feeds from various sources in Oulu.
 
-## Requirements
+## Features
 
 - The app displays a list of RSS feeds.
 - Users can navigate and view different RSS feeds.
 - Clicking an article directs the user to the original URL in a browser.
-- The app uses the react-native-rss-parser library to parse RSS feeds.
+- The app uses the `react-native-rss-parser` library to parse RSS feeds.
 
 ## How to Run
 
